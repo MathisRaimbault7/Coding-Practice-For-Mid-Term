@@ -1,0 +1,8 @@
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Coding_Practice_For_Mid_Term\bin\Debug\Coding_Practice_For_Mid_Term.exe.config
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Coding_Practice_For_Mid_Term\bin\Debug\Coding_Practice_For_Mid_Term.exe
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Coding_Practice_For_Mid_Term\bin\Debug\Coding_Practice_For_Mid_Term.pdb
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Coding_Practice_For_Mid_Term\obj\Debug\Coding_Practice_For_Mid_Term.csproj.AssemblyReference.cache
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Coding_Practice_For_Mid_Term\obj\Debug\Coding_Practice_For_Mid_Term.csproj.SuggestedBindingRedirects.cache
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Coding_Practice_For_Mid_Term\obj\Debug\Coding_Practice_For_Mid_Term.csproj.CoreCompileInputs.cache
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Coding_Practice_For_Mid_Term\obj\Debug\Coding_Practice_For_Mid_Term.exe
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Coding_Practice_For_Mid_Term\obj\Debug\Coding_Practice_For_Mid_Term.pdb
